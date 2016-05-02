@@ -1,0 +1,28 @@
+name: Sowmedia
+favicon: null
+layout_spectrum: 0.606647563399747
+typography_spectrum: 0.799434874439612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7675158532802016
+  lightness: 0.2779462323524058
+  saturation: 0.4485014823731035
+  rhythmicContrast: 0.2849730118177831
+purpose: []
